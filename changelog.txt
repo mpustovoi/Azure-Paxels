@@ -1,3 +1,3 @@
-v1.0.10
+v1.0.11
 
-- Fixes Paxel not being enchantable with sword enchantments
+- Ask minecraft directly for the axe & shovel maps - TheZeus121
